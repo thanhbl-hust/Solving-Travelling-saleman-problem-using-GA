@@ -1,0 +1,5 @@
+- coordinate: x and y of cities
+
+- distance_matrix: distance_matrix have size [n][n] show distance of cities
+
+- optimization: optimal solution
